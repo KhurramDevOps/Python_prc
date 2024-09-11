@@ -36,7 +36,7 @@ national_poet : str = '''  The national poet of Pakistan is Allama Muhammad Iqba
                                                                                   He was a poet, philosopher, and politician.
                                                                                                                              He was  born on November 9, 1877, in Sialkot, Punjab, British India.
                                                                                                                                                                                                  He was a key figure in the Pakistan Movement.
-                                                                                                                                                                                                                                              He is known for his poetry and his role in the creation of Pakistan.
+                                                                                                                                                                                                                                              He is known for his poetry.
                                                                                                                                                                                                         He worked as a professor of Philosophy.
                                                                                                                                              He died on April 21, 1938, in Lahore, Punjab, British India.
                                                                                               He is remembered as a national hero in Pakistan.
@@ -49,7 +49,7 @@ wars_of_pakistan : str = ''' (1) August 1947 war :
                                                                                                      (2) October 1947 :
                                                                                                                        Reason: First KAshmir  war begins between india and  Pakistan.
                                                                                                                                                                                      (3) August 1965 war :
-                                                                                                                               Reason: second Kashmir  war between india and pakistan.
+                                                                                                                               Reason: second Kashmir war between india and pakistan.
                                                                                                             (4) Dec  1971 war :
                                                              Reason:  After war Bangladesh becomes a country.
                                                (5) 1999 war :
